@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1638365139 source:c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1638365133 c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\linkedlist.h
+
+1638365435 source:c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1638365116 c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\menu.h
+
+1638362345 source:c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"movies.h"
+	"parser.h"
+
+1638364871 c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\movies.h
+
+1638365099 c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\parser.h
+
+1638364560 source:c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"movies.h"
+	<string.h>
+	"parser.h"
+
+1638364632 c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\controller.h
+	"LinkedList.h"
+
+1638365999 source:c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"menu.h"
+	"controller.h"
+	"movies.h"
+
+1638364727 source:c:\users\julieta\desktop\laplace.julieta.recsplab\recsegparcial\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movies.h"
+
